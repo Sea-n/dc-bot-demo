@@ -19,7 +19,7 @@ async def on_ready():
                 ...
     # await bot.load_extension('cmds.main')
     
-    print(">>Bot is Online<<")
+    print(">>My Cute Bot is Online<<")
 
 @bot.command()
 async def load(ctx, extension):
